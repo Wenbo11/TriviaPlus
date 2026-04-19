@@ -47,7 +47,7 @@ Each sample was annotated at the **sentence level** by multiple annotators (up t
 Annotators were trained over two rounds with author audits. Low-performing annotators were removed using the Dawid-Skene model. Each sentence receives one of four labels: **Supported**, **Contradicted**, **Not Mentioned**, or **Supplementary**.
 
 <p align="center">
-  <img src="assets/annotation_pipeline.png" width="90%" alt="TRIVIA+ Multi-Vote Annotation Pipeline"/>
+  <img src="assets/annotation.png" width="90%" alt="TRIVIA+ Multi-Vote Annotation Pipeline"/>
   <br>
   <em>Multi-vote annotation pipeline with escalating review stages and Dawid-Skene quality filtering.</em>
 </p>
