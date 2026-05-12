@@ -45,4 +45,4 @@ Please cite the paper as listed in the
 
 ## License
 
-Apache-2.0
+CC BY-NC-ND 4.0
